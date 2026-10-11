@@ -1,5 +1,5 @@
 // Network first so updates show up whenever the phone is online; cache as an offline fallback.
-const CACHE = "rtb-lock-935e5c7592";
+const CACHE = "rtb-lock-da6e840708";
 const SHELL = ["./", "apple-touch-icon.png", "bank.bin", "bank.html", "guide.bin", "guide.html", "icon-192.png", "icon-512.png", "index.bin", "index.html", "manifest.webmanifest", "preprogram.bin", "preprogram.html", "speaking.bin", "speaking.html", "vaccins.bin", "vaccins.html"];
 
 self.addEventListener("install", (event) => {
